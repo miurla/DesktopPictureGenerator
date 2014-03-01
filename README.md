@@ -1,0 +1,4 @@
+DesktopPictureGenerator
+=======================
+
+DesktopPictureGenerator (openFrameworks project)
